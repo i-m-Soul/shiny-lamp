@@ -1,2 +1,0 @@
-# shiny-lamp
-Dream Blog
